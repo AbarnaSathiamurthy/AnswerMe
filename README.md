@@ -42,17 +42,6 @@ streamlit run mile-1-2.py
 
 
 
-## Video Preview
-- https://drive.google.com/file/d/1ndt6A8R4y3rqpF6qp5N95-0OeITAFJTh/view?usp=sharing
-
-
-
-## Preview
-- ![image](https://github.com/barath-sk17/DataGenie-LLM/assets/127032804/ae1ecade-ba0a-4e20-9b74-d09760758709)
-
-
----
-
 # Conversational Question-Answering System with CSV Data and FAISS
 
 ## Overview
