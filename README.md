@@ -3,7 +3,7 @@
 # AnswerMe-CSVBot ( Basic Design )
 
 ## Overview
-The `DataGenie-Hackathon-CSVBot` is a Streamlit web application that serves as a conversational question-answering bot. It leverages both SQL databases and OpenAI language models (LLMs) to provide responses to user queries. The bot can interact with users in a chat-like interface, storing conversation history and utilizing memory to improve response efficiency.
+The `AnswerMe-CSVBot` is a Streamlit web application that serves as a conversational question-answering bot. It leverages both SQL databases and OpenAI language models (LLMs) to provide responses to user queries. The bot can interact with users in a chat-like interface, storing conversation history and utilizing memory to improve response efficiency.
 
 ## Features
 - **Interactive Chat Interface**: Provides a chat-like interface for users to input queries and receive responses.
